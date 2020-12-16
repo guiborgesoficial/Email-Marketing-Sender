@@ -30,7 +30,7 @@ In order for emails to be delivered correctly to recipients, it is necessary to 
 
 The project is configured to send e-mails where the linked account is part of Office, which includes the Outlook service.
 It is also necessary to check the daily limit that your email provider offers, so that it does not exceed the limit and the package is successfully delivered to the recipient.
-Below I will leave some "PORT" and "SMTP" settings for the most used email services:
+Below I will leave some "PORTA" and "SMTP" settings for the most used email services:
 
 #### HOTMAIL
 1. SMTP Hotmail server name: smtp.live.com
