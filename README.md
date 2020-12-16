@@ -10,7 +10,7 @@ After cloning this project in your development environment, some initial configu
 ## Connection String
 In the Classes folder in Conexão.cs on the 13 line you will have to change the connection string (sqlConnection) to point to your SQL Server Database. Here is an example:
 
-```C #
+```C#
 public SqlConnection sqlConnection = new SqlConnection (@ "ADD YOUR CONNECTION STRING");
 ```
 ## Database
